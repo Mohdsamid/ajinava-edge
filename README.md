@@ -1,1 +1,3 @@
-# ajinava-edge
+#AJINAVA EDGE 
+
+## Getting Started
